@@ -1,1 +1,0 @@
-# Innovate-with-Azure-OpenAI-sandbox

@@ -65,8 +65,6 @@ Content filters are applied to prompts and completions to prevent potentially ha
 ## Review
 
 In this lab, you have accomplished the following:
--   Provision an Azure OpenAI resource.
--   Deploy an OpenAI model within the Azure OpenAI studio.
 -   Use the power of OpenAI models to generate responses to generate natural language output.
 -   Explore content filters.
 

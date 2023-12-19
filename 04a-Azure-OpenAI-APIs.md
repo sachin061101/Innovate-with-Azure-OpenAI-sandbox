@@ -1,5 +1,7 @@
 # 4a Interacting with Azure OpenAI APIs with Python
 
+Discover the power of Azure OpenAI APIs by seamlessly integrating them into your Python projects. Leverage cutting-edge natural language processing and machine learning capabilities to enhance your applications. Unlock a new realm of possibilities for text generation, language understanding, and more, all within the Azure ecosystem.
+
 ### Task 1: Setup configuration for Integrating AI
 
 1. Open **Visual Studio Code** from the Lab VM desktop by double-clicking on it.
